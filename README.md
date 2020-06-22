@@ -6,4 +6,5 @@
   It was part of the original Logo programming language developed by Wally Feurzeig, Seymour Papert and Cynthia Solomon in 1967.
   
 # Rainbow Spiral :
-  ![alt text]image.png
+  ![alt text]https://github.com/dwinkwink123/Rainbow-Spiral---Python-Turtle/blob/master/image.png
+  
