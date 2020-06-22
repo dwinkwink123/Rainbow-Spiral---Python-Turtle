@@ -3,7 +3,7 @@ from turtle import *
 
 turtle.title("rainbow spiral")
 speed(15)
-#bgcolor("black")
+bgcolor("black")
 r,g,b=255,0,0
 
 for i in range(255*2):
